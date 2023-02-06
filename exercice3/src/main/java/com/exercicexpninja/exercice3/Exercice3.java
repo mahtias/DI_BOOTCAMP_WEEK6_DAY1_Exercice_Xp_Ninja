@@ -14,8 +14,8 @@ public class Exercice3 {
         
         //Création de trois objets Person
     Persons person1 = new Persons();
-    Persons person2 = new Persons("Konate Mamadou", 27, 'M');
-    Persons person3 = new Persons("Kernel Mamadou Konate", 25);
+    Persons person2 = new Persons("Adoni  kadjo Mathias", 27, 'M');
+    Persons person3 = new Persons("Adoni  kadjo Mathias", 25);
     
     //Affichage des informations des trois objets
     person1.displayInfo();

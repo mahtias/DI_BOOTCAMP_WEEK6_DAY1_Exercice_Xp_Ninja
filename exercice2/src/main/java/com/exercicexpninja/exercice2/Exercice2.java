@@ -17,7 +17,7 @@ public class Exercice2 {
         double weight = 70.5;
         char gender = 'M';
         boolean isStudent = false;
-        String name = "Konate Mamadou";
+        String name = "Adoni  kadjo Mathias";
         
         // Afficher les valeurs des variables
         System.out.println("Age: " + age);
@@ -31,7 +31,7 @@ public class Exercice2 {
         weight = 75.0;
         gender = 'M';
         isStudent = true;
-        name = "Konate Mamadou";
+        name = "Adoni  kadjo Mathias";
         
         // Imprimez les nouvelles valeurs des variables
         System.out.println("\nNew Values:");

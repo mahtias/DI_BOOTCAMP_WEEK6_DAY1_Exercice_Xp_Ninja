@@ -6,7 +6,7 @@ package com.exercicexpninja.exercice1;
 
 /**
  *
- * @author kernel-mk
+ * @author A.k.m
  */
 public class DataType {
     

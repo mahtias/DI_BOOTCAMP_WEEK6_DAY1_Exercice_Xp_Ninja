@@ -12,7 +12,7 @@ public class Exercice1 {
     
     public static void main(String[] args) {
         
-        DataType info = new DataType(25, 70.0, false, 'M', "Konate Mamadou K");
+        DataType info = new DataType(25, 70.0, false, 'M', "Kadjo ");
         
         info.displayInfo();
       
